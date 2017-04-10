@@ -3,7 +3,7 @@
 
 # Welcome to FramelessWPF project!
 
-[FramelessWPF](https://github.com/Grandbrain/FramelessWPF) is a small application that demonstrates custom window usage in WPF. The program uses .NET Framework 4.5 features to enable custom frame advantages. The program is based on the .NET Framework and can run only on Windows platform.
+[FramelessWPF](https://github.com/Grandbrain/FramelessWPF) is an application that demonstrates custom window usage in WPF. The program uses .NET Framework 4.5 features to enable custom frame advantages. The program is based on the .NET Framework and can run only on Windows platform.
 
 
 ## Contribute
