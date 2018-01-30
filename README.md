@@ -1,5 +1,8 @@
-[![Release](https://img.shields.io/badge/Release-v1.0.0-brightgreen.svg)](https://github.com/Grandbrain/FramelessWPF/releases)
-[![Licence](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Grandbrain/FramelessWPF/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/Grandbrain/FramelessWPF.svg)](https://github.com/Grandbrain/FramelessWPF/releases)
+[![GitHub issues](https://img.shields.io/github/issues/Grandbrain/FramelessWPF.svg)](https://github.com/Grandbrain/FramelessWPF/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Grandbrain/FramelessWPF.svg)](https://github.com/Grandbrain/FramelessWPF/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Grandbrain/FramelessWPF.svg)](https://github.com/Grandbrain/FramelessWPF/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Grandbrain/FramelessWPF.svg)](https://github.com/Grandbrain/FramelessWPF/blob/master/LICENSE)
 
 # Welcome to FramelessWPF project!
 
